@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<div xmlns:field="urn:jsptagdir:/WEB-INF/tags/form/fields" xmlns:jsp="http://java.sun.com/JSP/Page" xmlns:page="urn:jsptagdir:/WEB-INF/tags/form" version="2.0">
+    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
+    <jsp:output omit-xml-declaration="yes"/>
+    <page:show id="ps_com_github_hoverruan_template_heroku_domain_Book" object="${book}" path="/books" z="nt1VGvxaTAR8oOFPDTe34neQYMk=">
+        <field:display field="name" id="s_com_github_hoverruan_template_heroku_domain_Book_name" object="${book}" z="LnA18YvM04eWhoardETAGSm89r0="/>
+    </page:show>
+</div>
